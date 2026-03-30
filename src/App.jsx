@@ -1,12 +1,15 @@
 
 import './App.css'
+import HeroSection from './component/HeroSection'
+import NavBar from './component/NavBar'
 
 function App() {
  
 
   return (
     <>
-    <h1 className='text-7xl underline '>vite + react</h1>
+    <NavBar></NavBar>
+    <HeroSection></HeroSection>
    
       </>
   )
