@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "ResumePro Builder",
+    "description": "Create professional resumes with modern templates and ATS-friendly formatting.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "resume-icon.svg"
+  },
+  {
+    "id": 2,
+    "name": "Social Media Scheduler",
+    "description": "Plan and schedule posts across multiple social media platforms بسهولة.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Multi-platform posting",
+      "Auto scheduling",
+      "Analytics dashboard"
+    ],
+    "icon": "social-icon.svg"
+  },
+  {
+    "id": 3,
+    "name": "LogoMaker AI",
+    "description": "Generate stunning logos using AI in minutes.",
+    "price": 49.99,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "AI logo generation",
+      "High-resolution export",
+      "Brand kit included"
+    ],
+    "icon": "logo-icon.svg"
+  },
+  {
+    "id": 4,
+    "name": "Website Builder Pro",
+    "description": "Build responsive websites without coding using drag-and-drop tools.",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Drag & drop editor",
+      "SEO optimization",
+      "Custom domain support"
+    ],
+    "icon": "website-icon.svg"
+  },
+  {
+    "id": 5,
+    "name": "Email Marketing Suite",
+    "description": "Create, send, and track email campaigns effectively.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Email templates",
+      "Automation workflows",
+      "Real-time analytics"
+    ],
+    "icon": "email-icon.svg"
+  },
+  {
+    "id": 6,
+    "name": "Keyword Research Tool",
+    "description": "Discover high-ranking keywords to boost your SEO strategy.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Keyword suggestions",
+      "Search volume data",
+      "Competitor analysis"
+    ],
+    "icon": "keyword-icon.svg"
+  }
+]
