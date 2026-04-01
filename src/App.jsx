@@ -7,6 +7,9 @@ import Models from './component/Models'
 import NavBar from './component/NavBar'
 import UserSection from './component/UserSection'
 import Cart from './component/Cart'
+import StepsSection from './component/StepsSection'
+import Pricing from './component/Pricing'
+import Footer from './component/Footer'
 
 const getModels = async() =>{
   const res = await fetch("/models.json")
@@ -55,6 +58,10 @@ function App() {
       </Suspense>
       
       {activeTab === "Cart" && <Cart carts={carts} setCarts={setCarts} setActiveTab={setActiveTab} />}
+
+      <StepsSection></StepsSection>
+      <Pricing></Pricing>
+      <Footer></Footer>
     </>
   )
 }
